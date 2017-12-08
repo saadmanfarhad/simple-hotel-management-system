@@ -1,0 +1,544 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Project
+</name>
+</assembly>
+<members>
+<member name="T:Project.Project1DataSet.CashDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.CurrencyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Department_ListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Employee_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Guest_InfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Item_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Login_TableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.MessageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Room_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.UserTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.Project1DataSet.CashRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.CurrencyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Department_ListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Employee_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Guest_InfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Item_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Login_TableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.MessageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.Room_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.UserTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.Project1DataSet.CashRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.CurrencyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.Department_ListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.Employee_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.Guest_InfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.Item_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.Login_TableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.MessageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.Room_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet.UserTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.Project1DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.CashTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.CurrencyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.Department_ListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.Employee_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.Guest_InfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.Item_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.Login_TableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.MessageTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.Room_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.UserTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Project.Project1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Project.Project1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Project.Project1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Project.Project1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Project.Project1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Project.Project1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Project.Project1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Project.Project1DataSetTableAdapters.TableAdapterManager.UpdateAll(Project.Project1DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Project.Project1DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Project.ProjectDataSet.CashDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.CurrencyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Department_ListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Employee_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Guest_InfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Item_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Login_TableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.MessageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Room_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.UserTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.CashRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.CurrencyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Department_ListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Employee_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Guest_InfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Item_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Login_TableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.MessageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.Room_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.UserTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Project.ProjectDataSet.CashRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.CurrencyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.Department_ListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.Employee_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.Guest_InfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.Item_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.Login_TableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.MessageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.Room_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet.UserTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Project.ProjectDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.CashTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.CurrencyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.Department_ListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.Employee_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.Guest_InfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.Item_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.Login_TableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.MessageTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.Room_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.UserTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Project.ProjectDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Project.ProjectDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Project.ProjectDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Project.ProjectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Project.ProjectDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Project.ProjectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Project.ProjectDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Project.ProjectDataSetTableAdapters.TableAdapterManager.UpdateAll(Project.ProjectDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Project.ProjectDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Project.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Project.My.Resources.Resources._1430260319_preferences_desktop_cryptography">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Project.My.Resources.Resources._8_580x276">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.back_button_png_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Banner_HM_840x300">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Button_Ok_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Carlosjj_Google_Jfk_Forms">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Project.My.Resources.Resources.checkinout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Custom_Icon_Design_Flatastic_4_Add_item">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Dapino_Summer_Holiday_Hotel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Icons_Land_Vista_People_Office_Customer_Male_Light">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Iconsmind_Outline_Car_Items">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Project.My.Resources.Resources.item_details">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.light_wood_floor_texture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.login_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.message">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.message_box">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Oxygen_Icons_org_Oxygen_Places_mail_message">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:Project.My.Resources.Resources.Red_close_button_1202131742">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.roomwall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.splash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.splash_screen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.switch_off">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Project.My.Resources.Resources.White_Simple_Design_Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Project.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
